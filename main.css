@@ -1,8 +1,10 @@
 .first {
   background-color: crimson;
   border: 8px solid azure;
+  margin: 30px;
 }
 .second {
   background-color: cornsilk;
   border: 8px solid grey;
+  margin: 30px;
 }
